@@ -1,0 +1,49 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 26px;
+}
+
+.slide-full-img {
+  background-color: none;
+  background-size: cover;
+}
+
+/*.slide,
+.slide-background {
+  display: block;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  margin-left: 0px;
+  margin-top: 1px;
+  /*width: 1000px;
+  height: 562px;
+  margin-left: -500px;
+  margin-top: -281px;
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 10px;
+  padding: 40px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}*/
+
+h1 {
+  font-size: 60px;
+  font-weight: 800;
+  padding-bottom: 20px;
+  border-bottom: 3px solid #999;
+}
+h2 {
+  font-size: 40px;
+  font-weight: 600;
+}
